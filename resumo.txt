@@ -1,0 +1,17 @@
+--- RESUMO DO DIA ---
+Quantidade de compras: 10
+Total bruto: R$ 2156.00
+Total descontado: R$ 447.10
+Total final: R$ 1708.90
+
+--- HISTÓRICO DE COMPRAS ---
+Compra 1: Original R$ 50.00 | Desconto R$ 0.00 | Final R$ 50.00
+Compra 2: Original R$ 100.00 | Desconto R$ 0.00 | Final R$ 100.00
+Compra 3: Original R$ 80.00 | Desconto R$ 16.00 | Final R$ 64.00
+Compra 4: Original R$ 100.00 | Desconto R$ 20.00 | Final R$ 80.00
+Compra 5: Original R$ 125.00 | Desconto R$ 25.00 | Final R$ 100.00
+Compra 6: Original R$ 200.00 | Desconto R$ 20.00 | Final R$ 180.00
+Compra 7: Original R$ 101.00 | Desconto R$ 10.10 | Final R$ 90.90
+Compra 8: Original R$ 200.00 | Desconto R$ 56.00 | Final R$ 144.00
+Compra 9: Original R$ 1000.00 | Desconto R$ 280.00 | Final R$ 720.00
+Compra 10: Original R$ 200.00 | Desconto R$ 20.00 | Final R$ 180.00
