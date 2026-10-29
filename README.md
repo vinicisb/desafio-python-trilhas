@@ -33,7 +33,7 @@ Abaixo estão os casos validados para garantir a ordem correta das regras de des
 | 10 | 200.00 | 64 | 0% | 10% | R$ 180.00 |  
 
 ## Como rodar
-Certifique-se de ter o Python instalado em sua máquina. Abra o terminal, navegue até a pasta `nivel_1` e execute o comando abaixo:
+Certifique-se de ter o Python instalado em sua máquina. Abra o terminal, navegue até a pasta `desafio-python-trilhas` e execute o comando abaixo:
 
 ```bash
 python pdv.py
